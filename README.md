@@ -15,4 +15,4 @@ This project demonstrates an innovative approach to estimating the value of Pi (
 ## Requirements
 - Python 3.x
 - Jupyter Notebook
-- Libraries: (list any libraries used)
+- Libraries: numpy, matplotlib.pyplot and matplotlib.
