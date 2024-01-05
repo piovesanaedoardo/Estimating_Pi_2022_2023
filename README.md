@@ -1,7 +1,7 @@
 # Estimating Pi Using Probability Methods
 
 ## Project Overview
-This project demonstrates an innovative approach to estimating the value of Pi (π) using probability techniques. It involves a detailed Python implementation showcasing statistical methods and computational algorithms to approximate Pi.
+This project demonstrates an approach to estimating the value of Pi (π) using probability techniques. It involves a Python implementation showcasing statistical methods and computational algorithms to approximate Pi.
 
 ## Features
 - **Theory and Implementation**: Explanation of the mathematical concepts and their implementation in Python.
